@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react';
 import axios from 'axios';
 
 const API = "http://localhost:4000";
-
+// Srimathi
 function App() {
 
   const [people, setPeople] = useState([]);
